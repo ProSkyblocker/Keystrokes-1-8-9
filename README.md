@@ -1,5 +1,5 @@
 # KeystrokesBase
-A simple keystrokes mod base that isn't terrible
+A simple keystrokes mod for 1.8.9 that isn't terrible.
 
 ***
 
